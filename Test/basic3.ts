@@ -1,5 +1,5 @@
 export{}
-let name = 'Lovekesh Sharma - Changed in QA_Feb-changed in website under QA2 branch'
+let name = 'Lovekesh Sharma - new file from website'
 console.log(name);
 console.log(`Changed name is: ${name}`);
 
@@ -15,4 +15,3 @@ let undef1;
 console.log(undef1);
 let nulltest:null = null;
 console.log(nulltest);
-
