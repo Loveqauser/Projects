@@ -1,5 +1,5 @@
 export{}
-let name = 'Lovekesh Sharma - Changed in QA_Feb-again-qa branch 2'
+let name = 'Lovekesh Sharma - Changed in QA_Feb-changed in website under QA2 branch'
 console.log(name);
 console.log(`Changed name is: ${name}`);
 
